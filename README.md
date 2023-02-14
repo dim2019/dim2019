@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dima Mezvrishvili
-- 👀 I’m interested in Front_End
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Front_End / Back_End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Gmail: dimamezvrishvili776@gmail.com
 
