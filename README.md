@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/dim2019) 
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png' alt='angular' height='52'>](https://angular.io) 
-
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png' alt='angular' height='52'>](https://javascript.io) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png' alt='angular' height='52'>](https://typescript.io) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dim2019&theme=onedark&margin-w=15&margin-h=15&column=7)](https://github.com/dim2019)
 
